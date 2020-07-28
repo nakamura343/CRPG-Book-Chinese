@@ -1,10 +1,10 @@
 # CRPG-Book-Chinese
 
-《The CRPG Book》的中文版，翻译正在进行中。
+《[The CRPG Book](https://crpgbook.wordpress.com/)》的中文版，翻译正在进行中。
 
 # 愿景
 
-* 暂无原作者授权。我将在翻译了一小部分之后再行联系原作者争取授权翻译并出版。
+* 暂无原作者授权。我将在翻译了一小部分之后再行联系原作者争取授权翻译并出版（尽管原著使用CC BY-NC 4.0协议，但还是想有原作者的支持）。
 * 此项目非盈利，即使我计划将此书交予中文出版商出版，按照原作者的惯例，销售所得将会捐赠给慈善机构。
     * 中文出版商包含中国大陆境内、港澳台地区，及东南亚华人区（亦按照此顺序联系出版商）
     * 正在寻求出版行业人士的帮助，请相关人士联系 `affqqa[AT]163.com`
@@ -15,9 +15,15 @@
 
 # 参与创作须知
 
-请参见 [`CONTRIBUTING`](https://github.com/DavyVan/CRPG-Book-Chinese/CONTRIBUTING.md)  
+请参见 `CONTRIBUTING.md`  
 __请一定在动手前仔细阅读！！！__
 
 # 项目进度
 __2020.7.28:__ 项目正式开始：有了明确的发展规划，开始阅读原著，开始系统性学习LaTeX排版，开始寻求出版行业的小伙伴的帮助。  
 __2019.5.18:__ 萌生想法，计划开始阅读原著（2020.7.28补充：其实鸽了很久）
+
+# 版权声明
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品由<span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"><a href="https://crpgbook.wordpress.com/"> Felipe Pepe </a></span>采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品由<span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"> Quan Fan </span>采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
