@@ -308,5 +308,5 @@ TSWLatexianTemp*
 
 # FQ
 
-# exclude generated main.pdf
-main.pdf
+# exclude origin book pdf
+crpg_book_2.0_hq.pdf
