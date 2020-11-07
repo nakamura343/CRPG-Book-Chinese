@@ -24,12 +24,22 @@
 __请一定在动手前仔细阅读！！！__
 
 # 4. 项目进度
+__2020.11.5:__
+* [小黑盒](https://www.xiaoheihe.cn/community/user/22900856/post_list)连载开始
+* 和 [rct](https://rct-studio.com/) 达成初步合作
+
+__2020.10.27:__
+* [游研社](https://www.yystv.cn/u/1098074/recent)连载开始
+
+__2020.10.21:__
+* 成员增加至 6 人
+
 __2020.10.12:__
 * 成员增加至 5 人
-* 与 rct studio 接触，探讨合作意向
+* 与 rct 接触，探讨合作意向
 
 __2020.10.8:__
-* b站“柚Game”频道开始连载
+* b站“[柚Game](https://www.bilibili.com/read/readlist/rl329068)”频道开始连载
 
 __2020.10.3:__ 
 * 完成翻译前两章
